@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2021 &#8211; Joshua Yue</title>
+	<atom:link href="https://joshua-work.github.io/portfolio/project-year/2021/feed/" rel="self" type="application/rss+xml" />
+	<link>https://joshua-work.github.io/portfolio/</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Apr 2024 19:39:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>衛武營週年慶3.0 ─ 活動紀錄</title>
+		<link>https://joshua-work.github.io/portfolio/film-project/%e8%a1%9b%e6%ad%a6%e7%87%9f%e9%80%b1%e5%b9%b4%e6%85%b63-0-%e2%94%80-%e6%b4%bb%e5%8b%95%e7%b4%80%e9%8c%84/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 06:53:58 +0000</pubDate>
+				<guid isPermaLink="false">https://joshua-work.github.io/portfolio/?post_type=film-project#038;p=1509</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>衛武營週年慶3.0 ─ 形象片</title>
+		<link>https://joshua-work.github.io/portfolio/film-project/%e8%a1%9b%e6%ad%a6%e7%87%9f%e9%80%b1%e5%b9%b4%e6%85%b63-0-%e2%94%80-%e5%bd%a2%e8%b1%a1%e7%89%87/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 06:49:09 +0000</pubDate>
+				<guid isPermaLink="false">https://joshua-work.github.io/portfolio/?post_type=film-project#038;p=1506</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2021 Real Leather Stay Different Taiwan</title>
+		<link>https://joshua-work.github.io/portfolio/film-project/2021-real-leather-stay-different-taiwan/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:55:30 +0000</pubDate>
+				<guid isPermaLink="false">https://joshua-work.github.io/portfolio/?post_type=film-project#038;p=1488</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
